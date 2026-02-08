@@ -1,3 +1,4 @@
-name = "llmm"
-main = "src/index.ts"
-compatibility_date = "2026-02-07"
+name = "llmm"              # 建议与 Cloudflare 上 Worker 名一致
+main = "worker.js"
+compatibility_date = "2024-12-01"
+
